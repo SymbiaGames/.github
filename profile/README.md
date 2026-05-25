@@ -12,6 +12,13 @@ Bienvenue dans l'écosystème Symbia. Nous développons un MMO de survie coopér
 | [`Symbia-Token`](https://github.com/SymbiaGames/Symbia-Token) | Smart contract du token utilitaire `$SYMBIA`. |
 | [`.github`](https://github.com/SymbiaGames/.github) | Métadonnées, templates et documentation de l'organisation. |
 
+## 📚 Documents clés du projet
+
+Toute notre stratégie économique est publique et transparente :
+
+- **[📈 Tokenomics ($SYMBIA)](https://github.com/SymbiaGames/.github/blob/main/TOKENOMICS.md)** : Distribution, utilités in-game, mécanismes de burn et stabilité.
+- **[🏛️ Politique de Trésorerie](https://github.com/SymbiaGames/.github/blob/main/TREASURY_POLICY.md)** : Gestion du multi-sig, répartition des fonds et processus de transparence.
+
 ## 🌐 Liens officiels
 
 - **Site web & documentation :** [https://symbia.games](https://symbia.games)
