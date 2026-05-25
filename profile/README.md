@@ -16,7 +16,7 @@ Bienvenue dans l'écosystème Symbia. Nous développons un MMO de survie coopér
 
 - **Site web & documentation :** [https://symbia.games](https://symbia.games)
 - **Notre vision :** [Whitepaper économique](https://symbia.games/whitepaper) (à venir)
-- **Rejoindre la communauté :** [Discord](https://discord.gg/invite)
+- **Rejoindre la communauté :** [Discord](https://discord.gg/DKFxBvjrgU)
 
 ## 🛠️ Pour contribuer
 
